@@ -93,9 +93,6 @@ While my core expertise is in **Frontend Development**, I am actively expanding 
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/>
   </a>
-  <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm"/>
-  </a>
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Astra_Framework-8B5CF6?style=flat-square&logo=vue.js&logoColor=white" alt="Astra"/>
   </a>
@@ -118,7 +115,7 @@ While my core expertise is in **Frontend Development**, I am actively expanding 
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://t.me/hel1li1" target="_blank">
+  <a href="t.me/hel1li1" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://vk.ru/linberg_alya" target="_blank">
