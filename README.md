@@ -83,12 +83,6 @@ While my core expertise is in **Frontend Development**, I am actively expanding 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
   </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
-  </a>
-  <a href="https://eslint.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint"/>
-  </a>
   <a href="https://prettier.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier"/>
   </a>
@@ -98,9 +92,6 @@ While my core expertise is in **Frontend Development**, I am actively expanding 
   <b>Package Managers & Other</b><br>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/>
-  </a>
-  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" alt="Yarn"/>
   </a>
   <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm"/>
@@ -133,6 +124,10 @@ While my core expertise is in **Frontend Development**, I am actively expanding 
   <a href="https://vk.ru/linberg_alya" target="_blank">
     <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
   </a>
+    <!-- Add your website link here when ready! -->
+  <!-- <a href="https://your-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a> -->
 </p>
 
 ---
